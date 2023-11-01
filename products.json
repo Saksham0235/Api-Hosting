@@ -1,0 +1,39 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone11",
+        "price":158,
+        "featured":true,
+        "company": "apple"
+    },
+    {
+        "name": "GalaxyWatch",
+        "price": 187,
+        "company": "samsung"
+    },
+    {
+        "name": "iphoneX",
+        "price": 689,
+        "company": "apple"
+    },
+    {
+        "name": "iphone15",
+        "price": 1540,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 144,
+        "company": "apple"
+    },
+    {
+        "name": "B4",
+        "price": 160,
+        "company": "mi"
+    }
+]

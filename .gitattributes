@@ -1,0 +1,5 @@
+# Set the type of line endings for all files
+* text=auto
+
+# Explicitly set LF line endings for specific files
+*.js eol=lf
